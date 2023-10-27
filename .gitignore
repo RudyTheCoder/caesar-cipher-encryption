@@ -1,0 +1,16 @@
+# Compiled binary
+caesar-cipher-encryption
+
+#word files
+*.docx
+
+#Text files
+*.txt
+
+#PDF Files
+*.pdf
+
+#Shell Scripts
+*.sh
+
+.DS_Store
